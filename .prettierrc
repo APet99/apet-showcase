@@ -7,5 +7,6 @@
   "bracketSameLine": true,
   "bracketSpacing": true,
   "useTabs": false,
-  "singleAttributePerLine": true
+  "singleAttributePerLine": false,
+  "proseWrap": "always"
 }
